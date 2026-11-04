@@ -75,15 +75,7 @@ A full-stack application that enables citizens to submit and track public compla
 - Java Web Development Internship – Vaidsys Technologies
 - Python Programming – Cisco Networking Academy and Udemy
 
-## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prudhvii577&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvii577&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ## Let's Connect
 
